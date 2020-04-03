@@ -16,5 +16,7 @@ Tools I like
 If you don't have the $80 or are to lazy to configure logstash etc... Sign up for mailjet (they have a free tier), configure postfix to relay through it, and then configure logwatch to send digests.
 
 [Mailjet](https://www.mailjet.com/)
+
 [Mailjet SMTP Relay](https://www.linuxbabe.com/mail-server/postfix-smtp-relay)
+
 [Logwatch](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-logwatch-log-analyzer-and-reporter-on-a-vps)
