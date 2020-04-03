@@ -17,6 +17,6 @@ If you don't have the $80 or are to lazy to configure logstash etc... Sign up fo
 
 [Mailjet](https://www.mailjet.com/)
 
-[Mailjet SMTP Relay](https://www.linuxbabe.com/mail-server/postfix-smtp-relay)
+[Mailjet SMTP Relay with Postfix](https://www.linuxbabe.com/mail-server/postfix-smtp-relay)
 
 [Logwatch](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-logwatch-log-analyzer-and-reporter-on-a-vps)
