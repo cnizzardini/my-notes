@@ -23,4 +23,4 @@ If you don't have the $80 or are to lazy to configure logstash etc... Sign up fo
 
 ## Documentation
 
-[TermToSvg](https://github.com/nbedos/termtosvg) Creates terminal annimations
+[TermToSvg](https://github.com/nbedos/termtosvg) — Creates terminal annimations
