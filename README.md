@@ -1,15 +1,15 @@
 # My Tools
 Tools I like
 
+## Documentation
+
+[TermToSvg](https://github.com/nbedos/termtosvg) — Creates terminal annimations
+
 ## Email
 
 [HTML to Text Email Converter](https://templates.mailchimp.com/resources/html-to-text/) — Convert HTML emails to text to increase sendability
 
 [Mail Tester](https://www.mail-tester.com/) — Test the deliverability of your emails
-
-## Security
-
-[Security Headers](https://securityheaders.com/) — Analyze your HTTP security headers.
 
 ## Poor Mans Loggly
 
@@ -21,6 +21,6 @@ If you don't have the $80 or are to lazy to configure logstash etc... Sign up fo
 
 [Logwatch](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-logwatch-log-analyzer-and-reporter-on-a-vps)
 
-## Documentation
+## Security
 
-[TermToSvg](https://github.com/nbedos/termtosvg) — Creates terminal annimations
+[Security Headers](https://securityheaders.com/) — Analyze your HTTP security headers.
