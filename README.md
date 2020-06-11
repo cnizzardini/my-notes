@@ -1,6 +1,12 @@
 # My Tools
 Tools I like
 
+## Analytics
+
+[Block Yourself from Analytics](https://chrome.google.com/webstore/detail/block-yourself-from-analy/fadgflmigmogfionelcpalhohefbnehm?hl=en) — Filter yourself out of Google Analytics using an extension instead of maintaining an IP address filter set. 
+
+[Campaign URL Builder](https://ga-dev-tools.appspot.com/campaign-url-builder/) — Builds those fun utm_source tracking URLs.
+
 ## Documentation
 
 [TermToSvg](https://github.com/nbedos/termtosvg) — Creates terminal annimations
