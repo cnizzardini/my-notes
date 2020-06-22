@@ -17,7 +17,7 @@ Tools I like
 
 [Mail Tester](https://www.mail-tester.com/) — Test the deliverability of your emails
 
-[Litmis](https://litmus.com/) - Non-free SaaS for testing email rendering in 90+ email clients.
+[Litmus](https://litmus.com/) - Non-free SaaS for testing email rendering in 90+ email clients.
 
 ## Poor Mans Loggly
 
