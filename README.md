@@ -17,6 +17,8 @@ Tools I like
 
 [Mail Tester](https://www.mail-tester.com/) — Test the deliverability of your emails
 
+[Litmis](https://litmus.com/) - Non-free SaaS for testing email rendering in 90+ email clients.
+
 ## Poor Mans Loggly
 
 If you don't have the $80 or are to lazy to configure logstash etc... Sign up for mailjet (they have a free tier), configure postfix to relay through it, and then configure logwatch to send digests.
