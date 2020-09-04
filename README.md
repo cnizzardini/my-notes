@@ -20,7 +20,7 @@ Tools I like
 [Litmus](https://litmus.com/) - Non-free SaaS for testing email rendering in 90+ email clients.
 
 ## PHP
-[Parallel testing for PHPUnit](https://github.com/paratestphp/paratest) runs unit tests in parallel.
+[Paratest](https://github.com/paratestphp/paratest) Parallel testing for PHPUnit.
 
 [PHPUnit SpeedTrap](https://github.com/johnkary/phpunit-speedtrap) reports on slow-running PHPUnit tests right in the console.
 
