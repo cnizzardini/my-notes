@@ -19,6 +19,11 @@ Tools I like
 
 [Litmus](https://litmus.com/) - Non-free SaaS for testing email rendering in 90+ email clients.
 
+## PHP
+[Parallel testing for PHPUnit](https://github.com/paratestphp/paratest) runs unit tests in parallel.
+
+[PHPUnit SpeedTrap](https://github.com/johnkary/phpunit-speedtrap) reports on slow-running PHPUnit tests right in the console.
+
 ## Poor Mans Loggly
 
 If you don't have the $80 or are to lazy to configure logstash etc... Sign up for mailjet (they have a free tier), configure postfix to relay through it, and then configure logwatch to send digests.
