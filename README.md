@@ -17,12 +17,12 @@ Tools I like (or want to remember)
 
 [Mail Tester](https://www.mail-tester.com/) — Test the deliverability of your emails
 
-[Litmus](https://litmus.com/) - Non-free SaaS for testing email rendering in 90+ email clients.
+[Litmus](https://litmus.com/) — Non-free SaaS for testing email rendering in 90+ email clients.
 
 ## PHP
-[Paratest](https://github.com/paratestphp/paratest) Parallel testing for PHPUnit.
+[Paratest](https://github.com/paratestphp/paratest) — Parallel testing for PHPUnit.
 
-[PHPUnit SpeedTrap](https://github.com/johnkary/phpunit-speedtrap) reports on slow-running PHPUnit tests right in the console.
+[PHPUnit SpeedTrap](https://github.com/johnkary/phpunit-speedtrap) — Reports on slow-running PHPUnit tests right in the console.
 
 ## Poor Mans Loggly
 
