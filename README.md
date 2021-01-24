@@ -13,26 +13,30 @@ Tools I like (or want to remember)
 
 ## Email
 
+[Litmus](https://litmus.com/) — Non-free SaaS for testing email rendering in 90+ email clients.
+
 [HTML to Text Email Converter](https://templates.mailchimp.com/resources/html-to-text/) — Convert HTML emails to text to increase sendability
 
 [Mail Tester](https://www.mail-tester.com/) — Test the deliverability of your emails
 
-[Litmus](https://litmus.com/) — Non-free SaaS for testing email rendering in 90+ email clients.
-
 ## PHP
+
+[GrumPHP](https://github.com/phpro/grumphp) — Automated code quality and task runner for localhosts with integrated git hooks. 
+
 [Paratest](https://github.com/paratestphp/paratest) — Parallel testing for PHPUnit.
 
 [PHPUnit SpeedTrap](https://github.com/johnkary/phpunit-speedtrap) — Reports on slow-running PHPUnit tests right in the console.
+
 
 ## Poor Mans Loggly
 
 If you don't have the $80 or are to lazy to configure logstash etc... Sign up for mailjet (they have a free tier), configure postfix to relay through it, and then configure logwatch to send digests.
 
+[Logwatch](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-logwatch-log-analyzer-and-reporter-on-a-vps)
+
 [Mailjet](https://www.mailjet.com/)
 
 [Mailjet SMTP Relay with Postfix](https://www.linuxbabe.com/mail-server/postfix-smtp-relay)
-
-[Logwatch](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-logwatch-log-analyzer-and-reporter-on-a-vps)
 
 ## Security
 
