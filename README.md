@@ -19,6 +19,12 @@ Tools I like (or want to remember)
 
 [Mail Tester](https://www.mail-tester.com/) — Test the deliverability of your emails
 
+## Linux
+
+[ncdu](https://dev.yorhel.nl/ncdu) — Ncdu is a disk usage analyzer with an ncurses interface.
+
+[tmpreaper](http://manpages.ubuntu.com/manpages/bionic/man8/tmpreaper.8.html) — Temporary file cleanup utility
+
 ## PHP
 
 [GrumPHP](https://github.com/phpro/grumphp) — Automated code quality and task runner for localhosts with integrated git hooks. 
