@@ -29,7 +29,7 @@ Tools I like (or want to remember)
 
 [Symfony/Panther](https://github.com/symfony/panther) — A browser testing and web crawling library for PHP and Symfony
 
-### PHPUnit and Testing
+#### PHPUnit and Testing
 
 [GrumPHP](https://github.com/phpro/grumphp) — Automated code quality and task runner for localhosts with integrated git hooks. 
 
