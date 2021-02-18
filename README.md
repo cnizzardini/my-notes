@@ -29,6 +29,8 @@ Tools I like (or want to remember)
 
 [Symfony/Panther](https://github.com/symfony/panther) — A browser testing and web crawling library for PHP and Symfony
 
+[Symfony/Monorepo Builder](https://github.com/symplify/monorepo-builder) — A symfony monorepo tool
+
 #### PHPUnit and Testing
 
 [GrumPHP](https://github.com/phpro/grumphp) — Automated code quality and task runner for localhosts with integrated git hooks. 
@@ -38,7 +40,6 @@ Tools I like (or want to remember)
 [Paratest](https://github.com/paratestphp/paratest) — Parallel testing for PHPUnit.
 
 [PHPUnit SpeedTrap](https://github.com/johnkary/phpunit-speedtrap) — Reports on slow-running PHPUnit tests right in the console.
-
 
 ## Poor Mans Loggly
 
