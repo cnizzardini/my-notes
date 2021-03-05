@@ -31,6 +31,8 @@ Tools I like (or want to remember)
 
 [Symfony/Monorepo Builder](https://github.com/symplify/monorepo-builder) — A symfony monorepo tool
 
+[Shopsys/Monorepo Tools](https://github.com/shopsys/monorepo-tools) — Another monorepo toolset
+
 #### PHPUnit and Testing
 
 [GrumPHP](https://github.com/phpro/grumphp) — Automated code quality and task runner for localhosts with integrated git hooks. 
