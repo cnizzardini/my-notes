@@ -21,7 +21,9 @@ Tools I like (or want to remember)
 
 ## Front End
 
-[Chart.css](https://github.com/ChartsCSS/charts.css)
+[Chart.css](https://github.com/ChartsCSS/charts.css) — Charts in CSS only
+
+[Symfony/UX-Turbo](https://github.com/symfony/ux-turbo) — TurboUX for Symfony.
 
 ## Linux
 
