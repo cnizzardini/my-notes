@@ -12,7 +12,7 @@ git branch | grep "<pattern>" | xargs git branch -D
 
 ## Forks
 
-```
+```console
 git remote add upstream git@github.com:cakephp/cakephp.git
 git fetch upsream
 ```
