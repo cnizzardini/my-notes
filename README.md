@@ -33,11 +33,17 @@ Tools I like (or want to remember)
 
 ## PHP
 
+[Shopsys/Monorepo Tools](https://github.com/shopsys/monorepo-tools) — Another monorepo toolset
+
+#### CakePHP
+
+[CakePHP PHP-PM](https://github.com/CakeDC/cakephp-phppm) — PHP-PM for CakePHP
+
+#### Symfony
+
 [Symfony/Panther](https://github.com/symfony/panther) — A browser testing and web crawling library for PHP and Symfony
 
 [Symfony/Monorepo Builder](https://github.com/symplify/monorepo-builder) — A symfony monorepo tool
-
-[Shopsys/Monorepo Tools](https://github.com/shopsys/monorepo-tools) — Another monorepo toolset
 
 #### PHPUnit and Testing
 
