@@ -13,8 +13,9 @@ git branch | grep "<pattern>" | xargs git branch -D
 ## Forks
 
 ```console
-git remote add upstream git@github.com:cakephp/cakephp.git
+git remote add upstream git@github.com:VENDOR/PROJECT.git
 git fetch upsream
+git checkout --track upstream/BRANCH_NAME
 ```
 
 https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/configuring-a-remote-for-a-fork
