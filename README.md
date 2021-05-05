@@ -26,6 +26,8 @@ Links, notes, and things.
 
 [Symfony/UX-Turbo](https://github.com/symfony/ux-turbo) — TurboUX for Symfony.
 
+[Hotwire](https://hotwire.dev/) — Hotwire is an alternative approach to building modern web applications without using much JavaScript by sending HTML instead of JSON over the wire.
+
 ## Linux
 
 [ncdu](https://dev.yorhel.nl/ncdu) — Ncdu is a disk usage analyzer with an ncurses interface.
