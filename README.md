@@ -2,6 +2,17 @@
 
 Links, notes, and things.
 
+- [GIT](git.md) — Git tricks
+- [Analytics](#analytics)
+- [Documentation](#documentation)
+- [Email](#email)
+- [Front End](#front-end)
+- [Linux](#linux)
+- [PHP](#php)
+- [Security](#security)
+- [Misc](#misc)
+
+
 ## Analytics
 
 [Block Yourself from Analytics](https://chrome.google.com/webstore/detail/block-yourself-from-analy/fadgflmigmogfionelcpalhohefbnehm?hl=en) — Filter yourself out of Google Analytics using an extension instead of maintaining an IP address filter set. 
@@ -58,7 +69,9 @@ Links, notes, and things.
 
 [PHPUnit SpeedTrap](https://github.com/johnkary/phpunit-speedtrap) — Reports on slow-running PHPUnit tests right in the console.
 
-## Poor Mans Loggly
+## Misc
+
+### Poor Mans Loggly
 
 If you don't have the $80 or are to lazy to configure logstash etc... Sign up for mailjet (they have a free tier), configure postfix to relay through it, and then configure logwatch to send digests.
 
