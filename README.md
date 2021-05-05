@@ -2,8 +2,9 @@
 
 Links, notes, and things.
 
-- [GIT](git.md) — Git tricks
-- [Analytics](#analytics)
+- [GIT tricks and commands](git.md)
+- [Articles and Blog Posts](articles.md)
+- [Google Analytics](#analytics)
 - [Documentation](#documentation)
 - [Email](#email)
 - [Front End](#front-end)
@@ -11,7 +12,6 @@ Links, notes, and things.
 - [PHP](#php)
 - [Security](#security)
 - [Misc](#misc)
-
 
 ## Analytics
 
@@ -69,6 +69,10 @@ Links, notes, and things.
 
 [PHPUnit SpeedTrap](https://github.com/johnkary/phpunit-speedtrap) — Reports on slow-running PHPUnit tests right in the console.
 
+## Security
+
+[Security Headers](https://securityheaders.com/) — Analyze your HTTP security headers.
+
 ## Misc
 
 ### Poor Mans Loggly
@@ -80,7 +84,3 @@ If you don't have the $80 or are to lazy to configure logstash etc... Sign up fo
 [Mailjet](https://www.mailjet.com/)
 
 [Mailjet SMTP Relay with Postfix](https://www.linuxbabe.com/mail-server/postfix-smtp-relay)
-
-## Security
-
-[Security Headers](https://securityheaders.com/) — Analyze your HTTP security headers.
