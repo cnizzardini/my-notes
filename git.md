@@ -2,7 +2,7 @@
 
 GIT things.
 
-## Commands
+### Commands
 
 Deleting multiple local branches:
 
@@ -10,7 +10,7 @@ Deleting multiple local branches:
 git branch | grep "<pattern>" | xargs git branch -D
 ```
 
-## Forks
+### Forks
 
 Tracking an upstream fork:
 
@@ -25,7 +25,7 @@ git checkout --track upstream/BRANCH_NAME
 > https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/configuring-a-remote-for-a-fork
 > https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork
 
-## Checking out branches from forks
+### Checking out branches from forks
 
 ```console
 git remote add coworker git://path/to/coworkers/repo.git
