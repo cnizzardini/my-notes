@@ -49,6 +49,8 @@ Links, notes, and things.
 
 [Shopsys/Monorepo Tools](https://github.com/shopsys/monorepo-tools) — Another monorepo toolset
 
+[JsonMachine](https://github.com/halaxa/json-machine) — Efficient, easy-to-use, and fast PHP JSON stream parser
+
 #### CakePHP
 
 [CakePHP PHP-PM](https://github.com/CakeDC/cakephp-phppm) — PHP-PM for CakePHP
