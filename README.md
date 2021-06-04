@@ -71,6 +71,10 @@ Links, notes, and things.
 
 [PHPUnit SpeedTrap](https://github.com/johnkary/phpunit-speedtrap) — Reports on slow-running PHPUnit tests right in the console.
 
+##### Static Analysis
+
+[Tombstone](https://github.com/scheb/tombstone) — Deadcode detection
+
 ## Security
 
 [Security Headers](https://securityheaders.com/) — Analyze your HTTP security headers.
