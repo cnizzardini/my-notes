@@ -21,7 +21,7 @@ Links, notes, and things.
 
 ## Documentation
 
-[TermToSvg](https://github.com/nbedos/termtosvg) — Creates terminal annimations
+[TermToSvg](https://github.com/nbedos/termtosvg) — Creates terminal animations
 
 ## Email
 
