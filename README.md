@@ -45,6 +45,8 @@ Links, notes, and things.
 
 [tmpreaper](http://manpages.ubuntu.com/manpages/bionic/man8/tmpreaper.8.html) — Temporary file cleanup utility
 
+[nushell/nushell](https://github.com/nushell/nushell) — A new shell for linux
+
 ## PHP
 
 [Shopsys/Monorepo Tools](https://github.com/shopsys/monorepo-tools) — Another monorepo toolset
