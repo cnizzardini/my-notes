@@ -39,6 +39,8 @@ Links, notes, and things.
 
 [Hotwire](https://hotwire.dev/) — Hotwire is an alternative approach to building modern web applications without using much JavaScript by sending HTML instead of JSON over the wire.
 
+[TimelineJS](https://github.com/NUKnightLab/TimelineJS) — A Storytelling Timeline built in JavaScript.
+
 ## Linux
 
 [ncdu](https://dev.yorhel.nl/ncdu) — Ncdu is a disk usage analyzer with an ncurses interface.
