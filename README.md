@@ -10,6 +10,11 @@ Links, notes, and things.
 - [Front End](#front-end)
 - [Linux](#linux)
 - [PHP](#php)
+  - [CakePHP](#cakephp)
+  - [Symfony](#symfony)
+  - [Testing](#testing)
+  - [Benchmarking](#benchmarking)
+  - [static Analysis](#static-analysis)
 - [Security](#security)
 - [Misc](#misc)
 
@@ -67,7 +72,7 @@ Links, notes, and things.
 
 [Symfony/Monorepo Builder](https://github.com/symplify/monorepo-builder) — A symfony monorepo tool
 
-#### PHPUnit and Testing
+#### Testing
 
 [GrumPHP](https://github.com/phpro/grumphp) — Automated code quality and task runner for localhosts with integrated git hooks. 
 
