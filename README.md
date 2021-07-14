@@ -14,7 +14,7 @@ Links, notes, and things.
   - [Symfony](#symfony)
   - [Testing](#testing)
   - [Benchmarking](#benchmarking)
-  - [static Analysis](#static-analysis)
+  - [static Analysis](#Static-analysis)
 - [Security](#security)
 - [Misc](#misc)
 
