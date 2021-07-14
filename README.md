@@ -77,6 +77,10 @@ Links, notes, and things.
 
 [PHPUnit SpeedTrap](https://github.com/johnkary/phpunit-speedtrap) — Reports on slow-running PHPUnit tests right in the console.
 
+##### Benchmarking
+
+[PHP Bench](https://github.com/phpbench/phpbench) — PHPBench is a benchmark runner for PHP analagous to PHPUnit but for performance rather than correctness.
+
 ##### Static Analysis
 
 [Tombstone](https://github.com/scheb/tombstone) — Deadcode detection
