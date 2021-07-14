@@ -81,6 +81,8 @@ Links, notes, and things.
 
 [PHP Bench](https://github.com/phpbench/phpbench) — PHPBench is a benchmark runner for PHP analagous to PHPUnit but for performance rather than correctness.
 
+[Blackfire](https://www.blackfire.io/) — Continuous performance testing.
+
 ##### Static Analysis
 
 [Tombstone](https://github.com/scheb/tombstone) — Deadcode detection
