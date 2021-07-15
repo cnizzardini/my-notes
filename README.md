@@ -2,13 +2,14 @@
 
 Links, notes, and things.
 
-- [GIT tricks and commands](git.md)
 - [Articles and Blog Posts](articles.md)
+- [GIT tricks and commands](git.md)
 - [Google Analytics](#analytics)
 - [Documentation](#documentation)
 - [Email](#email)
 - [Front End](#front-end)
 - [Linux](#linux)
+- [Kubernetes][k8s.md]
 - [PHP](#php)
   - [CakePHP](#cakephp)
   - [Symfony](#symfony)
