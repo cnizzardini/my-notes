@@ -60,7 +60,7 @@ Links, notes, and things.
 
 [Shopsys/Monorepo Tools](https://github.com/shopsys/monorepo-tools) — Another monorepo toolset
 
-[JsonMachine](https://github.com/halaxa/json-machine) — Efficient, easy-to-use, and fast PHP JSON stream parser
+[JsonMachine](https://github.com/halaxa/json-machine) — Very easy to use and memory efficient drop-in replacement for inefficient iteration of big JSON files or streams
 
 [JsonMapper](https://github.com/JsonMapper/JsonMapper) — Maps JSON objects to PHP classes.
 
