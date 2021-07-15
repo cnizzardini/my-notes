@@ -62,6 +62,8 @@ Links, notes, and things.
 
 [JsonMachine](https://github.com/halaxa/json-machine) — Efficient, easy-to-use, and fast PHP JSON stream parser
 
+[JsonMapper](https://github.com/JsonMapper/JsonMapper) — Maps JSON objects to PHP classes.
+
 [Setup PHP Github Actions](https://github.com/shivammathur/setup-php) — Many features for your PHP projects CI pipelines with github actions.
 
 #### CakePHP
