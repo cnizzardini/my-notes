@@ -50,9 +50,9 @@ Links, notes, and things.
 
 ## Linux
 
-[ncdu](https://dev.yorhel.nl/ncdu) — Ncdu is a disk usage analyzer with an ncurses interface.
+[ncdu](https://dev.yorhel.nl/ncdu) — Ncdu is a disk usage analyzer with an ncurses interface. It has a great CLI interface for drilling down directory-by-directory.
 
-[tmpreaper](http://manpages.ubuntu.com/manpages/bionic/man8/tmpreaper.8.html) — Temporary file cleanup utility
+[tmpreaper](http://manpages.ubuntu.com/manpages/bionic/man8/tmpreaper.8.html) — Temporary file cleanup utility. Works great at keeping your system clean.
 
 [nushell/nushell](https://github.com/nushell/nushell) — A new shell for linux
 
