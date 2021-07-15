@@ -9,7 +9,7 @@ Links, notes, and things.
 - [Email](#email)
 - [Front End](#front-end)
 - [Linux](#linux)
-- [Kubernetes][k8s.md]
+- [Kubernetes](k8s.md)
 - [PHP](#php)
   - [CakePHP](#cakephp)
   - [Symfony](#symfony)
