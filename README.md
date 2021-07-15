@@ -62,7 +62,7 @@ Links, notes, and things.
 
 [JsonMachine](https://github.com/halaxa/json-machine) — Efficient, easy-to-use, and fast PHP JSON stream parser
 
-[PHP Github Actions](https://github.com/shivammathur/setup-php) — Many features for your PHP projects CI pipelines with github actions.
+[Setup PHP Github Actions](https://github.com/shivammathur/setup-php) — Many features for your PHP projects CI pipelines with github actions.
 
 #### CakePHP
 
