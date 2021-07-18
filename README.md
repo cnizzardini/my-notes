@@ -68,6 +68,8 @@ Links, notes, and things.
 
 #### CakePHP
 
+[Asset Mix](https://github.com/ishanvyas22/asset-mix) — Provides integration with your CakePHP application & Laravel Mix.
+
 [CakePHP PHP-PM](https://github.com/CakeDC/cakephp-phppm) — PHP-PM for CakePHP
 
 [Galley](https://gitlab.com/amayer5125/galley) — Docker files for running a basic CakePHP application.
