@@ -17,6 +17,7 @@ Links, notes, and things.
   - [Testing](#testing)
   - [Benchmarking](#benchmarking)
   - [static Analysis](#Static-analysis)
+- [Recipes](recipes.md)
 - [Security](#security)
 - [Misc](#misc)
 
