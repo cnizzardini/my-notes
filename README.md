@@ -89,6 +89,8 @@ Links, notes, and things.
 
 [Paratest](https://github.com/paratestphp/paratest) — Parallel testing for PHPUnit.
 
+[Pest](https://pestphp.com/)  — "Pest is a Testing Framework with a focus on simplicity. It was carefully crafted to bring the joy of testing to PHP."
+
 [PHPUnit SpeedTrap](https://github.com/johnkary/phpunit-speedtrap) — Reports on slow-running PHPUnit tests right in the console.
 
 #### Benchmarking
