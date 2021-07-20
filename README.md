@@ -75,6 +75,8 @@ Links, notes, and things.
 
 [Galley](https://gitlab.com/amayer5125/galley) — Docker files for running a basic CakePHP application.
 
+[CakePHP Fixture Factories](https://github.com/vierge-noire/cakephp-fixture-factories) — An alternative approach to create test fixtures.
+
 #### Symfony
 
 [Symfony/Panther](https://github.com/symfony/panther) — A browser testing and web crawling library for PHP and Symfony
