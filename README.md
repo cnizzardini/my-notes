@@ -49,6 +49,8 @@ Links, notes, and things.
 
 [TimelineJS](https://github.com/NUKnightLab/TimelineJS) — A Storytelling Timeline built in JavaScript.
 
+[Inertia](https://inertiajs.com/) — Inertia.js lets you quickly build modern single-page React, Vue and Svelte apps using classic server-side routing and controllers.
+
 ## Linux
 
 [ncdu](https://dev.yorhel.nl/ncdu) — Ncdu is a disk usage analyzer with an ncurses interface. It has a great CLI interface for drilling down directory-by-directory.
@@ -76,6 +78,8 @@ Links, notes, and things.
 [Galley](https://gitlab.com/amayer5125/galley) — Docker files for running a basic CakePHP application.
 
 [CakePHP Fixture Factories](https://github.com/vierge-noire/cakephp-fixture-factories) — An alternative approach to create test fixtures.
+
+[CakePHP Inertia](https://github.com/ishanvyas22/cakephp-inertiajs) — Interia adapter for CakePHP.
 
 #### Symfony
 
