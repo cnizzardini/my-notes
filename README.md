@@ -69,6 +69,8 @@ Links, notes, and things.
 
 [Setup PHP Github Actions](https://github.com/shivammathur/setup-php) — Many features for your PHP projects CI pipelines with github actions.
 
+[Paseto](https://github.com/paragonie/paseto)  —  "Paseto is everything you love about JOSE (JWT, JWE, JWS) without any of the many design deficits that plague the JOSE standards."
+
 #### CakePHP
 
 [Asset Mix](https://github.com/ishanvyas22/asset-mix) — Provides integration with your CakePHP application & Laravel Mix.
