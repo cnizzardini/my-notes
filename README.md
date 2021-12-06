@@ -71,6 +71,8 @@ Links, notes, and things.
 
 [Paragonie/Paseto](https://github.com/paragonie/paseto)  —  "Paseto is everything you love about JOSE (JWT, JWE, JWS) without any of the many design deficits that plague the JOSE standards."
 
+[Termwind](https://github.com/nunomaduro/termwind) — Termwind allows you to build unique and beautiful PHP command-line applications, using the Tailwind CSS API with an HTML Renderer. In short, it's like Tailwind CSS, but for the PHP command-line applications.
+
 #### CakePHP
 
 [Asset Mix](https://github.com/ishanvyas22/asset-mix) — Provides integration with your CakePHP application & Laravel Mix.
