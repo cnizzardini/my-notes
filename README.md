@@ -34,6 +34,7 @@ Links, notes, and things.
 ## Docker
 
 [Awesome Docker](https://github.com/veggiemonk/awesome-docker) — A list of docker tools
+[Dive](https://github.com/wagoodman/dive)  — A tool for exploring a docker image, layer contents, and discovering ways to shrink the size of your Docker/OCI image.
 
 Docker command snipets: [docker.md](./docker.md)
 
