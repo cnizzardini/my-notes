@@ -22,10 +22,6 @@ Links, notes, and things.
 - [Security](#security)
 - [Misc](#misc)
 
-## Documentation
-
-[TermToSvg](https://github.com/nbedos/termtosvg) — Creates terminal animations
-
 ## CI / CD
 
 [Act](https://github.com/nektos/act) — Run github actions locally.
@@ -36,6 +32,10 @@ Links, notes, and things.
 [Dive](https://github.com/wagoodman/dive)  — A tool for exploring a docker image, layer contents, and discovering ways to shrink the size of your Docker/OCI image.
 
 Docker command snipets: [docker.md](./docker.md)
+
+## Documentation
+
+[TermToSvg](https://github.com/nbedos/termtosvg) — Creates terminal animations
 
 ## Email
 
