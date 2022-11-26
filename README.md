@@ -5,6 +5,7 @@ Links, notes, and things.
 - [Articles and Blog Posts](articles.md)
 - [GIT tricks and commands](git.md)
 - [Google Analytics](#analytics)
+- [CI / CD](#ci-cd)
 - [Documentation](#documentation)
 - [Docker](#docker)
 - [Email](#email)
@@ -20,12 +21,6 @@ Links, notes, and things.
 - [Recipes](recipes.md)
 - [Security](#security)
 - [Misc](#misc)
-
-## Analytics
-
-[Block Yourself from Analytics](https://chrome.google.com/webstore/detail/block-yourself-from-analy/fadgflmigmogfionelcpalhohefbnehm?hl=en) — Filter yourself out of Google Analytics using an extension instead of maintaining an IP address filter set. 
-
-[Campaign URL Builder](https://ga-dev-tools.appspot.com/campaign-url-builder/) — Builds those fun utm_source tracking URLs.
 
 ## Documentation
 
@@ -61,6 +56,12 @@ Docker command snipets: [docker.md](./docker.md)
 [TimelineJS](https://github.com/NUKnightLab/TimelineJS) — A Storytelling Timeline built in JavaScript.
 
 [Inertia](https://inertiajs.com/) — Inertia.js lets you quickly build modern single-page React, Vue and Svelte apps using classic server-side routing and controllers.
+
+## Google Analytics
+
+[Block Yourself from Analytics](https://chrome.google.com/webstore/detail/block-yourself-from-analy/fadgflmigmogfionelcpalhohefbnehm?hl=en) — Filter yourself out of Google Analytics using an extension instead of maintaining an IP address filter set. 
+
+[Campaign URL Builder](https://ga-dev-tools.appspot.com/campaign-url-builder/) — Builds those fun utm_source tracking URLs.
 
 ## Linux
 
