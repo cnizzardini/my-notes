@@ -31,6 +31,10 @@ Links, notes, and things.
 
 [TermToSvg](https://github.com/nbedos/termtosvg) — Creates terminal animations
 
+## CI / CD
+
+[Act](https://github.com/nektos/act) — Run github actions locally.
+
 ## Docker
 
 [Awesome Docker](https://github.com/veggiemonk/awesome-docker) — A list of docker tools
