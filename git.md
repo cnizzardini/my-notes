@@ -28,10 +28,9 @@ git checkout --track upstream/BRANCH_NAME
 ### Checking out branches from forks
 
 ```console
-git remote add coworker git://path/to/coworkers/repo.git
-git fetch coworker
-git checkout --track coworker/foo
+git fetch origin pull/3/head:my_new_branch
+git checkout my_new_branch
 ```
 
 > Source:
-> https://stackoverflow.com/questions/5884784/how-to-pull-remote-branch-from-somebody-elses-repo
+> https://stackoverflow.com/questions/62432498/how-do-i-checkout-a-pr-from-a-fork
