@@ -16,7 +16,7 @@ Tracking an upstream fork:
 
 ```console
 git remote add upstream git@github.com:VENDOR/PROJECT.git
-git fetch upsream
+git fetch upstream
 git checkout --track upstream/BRANCH_NAME
 ```
 
