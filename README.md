@@ -121,6 +121,8 @@ Docker command snipets: [docker.md](./docker.md)
 
 [Blackfire](https://www.blackfire.io/) — Continuous performance testing.
 
+[SPX](https://github.com/NoiseByNorthwest/php-spx) - SPX - A simple profiler for PHP
+
 #### Static Analysis
 
 [Tombstone](https://github.com/scheb/tombstone) — Deadcode detection
