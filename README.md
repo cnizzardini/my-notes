@@ -145,3 +145,5 @@ If you don't have the $80 or are to lazy to configure logstash etc... Sign up fo
 
 [Mailjet SMTP Relay with Postfix](https://www.linuxbabe.com/mail-server/postfix-smtp-relay)
 
+[Postman Alternative](https://github.com/usebruno/bruno)
+
