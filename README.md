@@ -87,7 +87,7 @@ Docker command snipets: [docker.md](./docker.md)
 
 [Composer dependency analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser)  — Detects unused, shadow and misplaced composer dependencies
 
-(PHP-FPM Settings)[https://geoligard.com/a-deeper-dive-into-optimal-php-fpm-settings] — A deeper dive into optimal PHP-FPM settings
+[PHP-FPM Settings](https://geoligard.com/a-deeper-dive-into-optimal-php-fpm-settings) — A deeper dive into optimal PHP-FPM settings
 
 #### CakePHP
 
