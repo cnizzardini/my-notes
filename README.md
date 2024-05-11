@@ -89,7 +89,7 @@ Docker command snipets: [docker.md](./docker.md)
 
 [PHP-FPM Settings](https://geoligard.com/a-deeper-dive-into-optimal-php-fpm-settings) — A deeper dive into optimal PHP-FPM settings
 
-[TReg-X](https://github.com/t-regx/T-Regx/tree/develop) — Simple library for regular expressions in PHP.
+[T-Regx](https://github.com/t-regx/T-Regx/tree/develop) — Simple library for regular expressions in PHP.
 
 #### CakePHP
 
