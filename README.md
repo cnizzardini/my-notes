@@ -140,15 +140,3 @@ Docker command snipets: [docker.md](./docker.md)
 
 [ORY Hydra](https://github.com/ory/hydra) — ORY Hydra is a hardened, OpenID Certified OAuth 2.0 Server and OpenID Connect Provider optimized for low-latency, high throughput, and low resource consumption. 
 
-### Poor Mans Loggly
-
-If you don't have the $80 or are to lazy to configure logstash etc... Sign up for mailjet (they have a free tier), configure postfix to relay through it, and then configure logwatch to send digests.
-
-[Logwatch](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-logwatch-log-analyzer-and-reporter-on-a-vps)
-
-[Mailjet](https://www.mailjet.com/)
-
-[Mailjet SMTP Relay with Postfix](https://www.linuxbabe.com/mail-server/postfix-smtp-relay)
-
-[Bruno](https://github.com/usebruno/bruno) — Postman Alternative
-
