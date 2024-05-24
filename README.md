@@ -91,6 +91,9 @@ Docker command snipets: [docker.md](./docker.md)
 
 [T-Regx](https://github.com/t-regx/T-Regx/tree/develop) — Simple library for regular expressions in PHP.
 
+[phasync: High-concurrency PHP](https://github.com/phasync/phasync) — PHP Async
+
+
 #### CakePHP
 
 [Asset Mix](https://github.com/ishanvyas22/asset-mix) — Provides integration with your CakePHP application & Laravel Mix.
