@@ -93,6 +93,7 @@ Docker command snipets: [docker.md](./docker.md)
 
 [phasync: High-concurrency PHP](https://github.com/phasync/phasync) — PHP Async
 
+[Enums](https://github.com/cerbero90/enum) — Native Enum helper library
 
 #### CakePHP
 
